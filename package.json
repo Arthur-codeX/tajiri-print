@@ -1,0 +1,28 @@
+{
+  "name": "tajiri-print",
+  "version": "1.0.0",
+  "description": "Package that assists in printing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-codeX/tajiri-print.git"
+  },
+  "keywords": [
+    "print",
+    "in",
+    "debug",
+    "print"
+  ],
+  "author": "Arthur-codeX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-codeX/tajiri-print/issues"
+  },
+  "homepage": "https://github.com/Arthur-codeX/tajiri-print#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
