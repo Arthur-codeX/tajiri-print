@@ -22,7 +22,9 @@ class Print {
   };
 }
 
-let p = new Print();
+let debug = true;
+
+let p = new Print(debug);
 
 p.mess("Hey You");
 
