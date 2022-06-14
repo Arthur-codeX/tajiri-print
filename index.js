@@ -22,13 +22,4 @@ class Print {
   };
 }
 
-let debug = true;
-
-let p = new Print(debug);
-
-p.mess("Hey You");
-
-p.error("Hey You");
-
-p.table({ name: "dfs", age: "32423" });
 module.exports = Print;
